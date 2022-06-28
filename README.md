@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mguyz
-- 👀 I’m interested in Arsenal FC and writing good code.
+- 👀 I’m interested in Arsenal FC and building scalable projects.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on any project you have.
 - 📫 How to reach me Twitter - @unbw0gable
