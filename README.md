@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mguyz
-- 👀 I’m interested in Arsenal FC and building scalable projects.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on any project you have.
-- 📫 How to reach me Twitter - @unbw0gable
+- 👀 I’m interested in becoming a better programmer each day.
+- 🌱 I’m currently learning through the ALX SE program.
+- 💞️ I’m looking to grow.
+- 📫 How to reach me Twitter - @kellymguyz
 
 <!---
 mguyz/mguyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
