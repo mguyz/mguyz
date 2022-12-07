@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a better programmer each day.
 - 🌱 I’m currently learning through the ALX SE program.
 - 💞️ I’m looking to grow.
-- 📫 How to reach me Twitter - @kellymguyz
+- 📫 How to reach me Twitter - @muguyz
 
 <!---
 mguyz/mguyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
